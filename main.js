@@ -1,5 +1,3 @@
-
-
 // Get the API key from the local configuration file
 const accessToken = ARCGIS_API_KEY;
 
